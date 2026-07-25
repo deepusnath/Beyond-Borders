@@ -1,6 +1,7 @@
 # [Company Name]
 
 > **Headquarters:** | **Founded:** | **Stage:** | **Website:**
+> **Anchor practitioner:** [name, role, and how builders reach them; see [LAUNCHPAD.md](./LAUNCHPAD.md). An entry without a real relationship behind it should not be added.]
 
 ---
 

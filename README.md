@@ -18,6 +18,12 @@ We take frontier technologies from companies building the future and translate t
 
 ---
 
+## The Launchpad
+
+What a builder gets from this repo does not end at the problem statement. The staged support system (signal → build → back), with an honest label on what is live, informal, or still proposed, is documented in **[LAUNCHPAD.md](./LAUNCHPAD.md)**. The build order for closing the gaps is in **[ROADMAP.md](./ROADMAP.md)**.
+
+---
+
 ## The Innovation Journey
 
 Every contribution in this repository follows a clear path from technology to impact:

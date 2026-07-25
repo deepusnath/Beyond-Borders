@@ -81,16 +81,16 @@ Each company entry includes:
 
 **The Purple Movement** is a global community of builders, thinkers, and doers committed to solving hard problems with technology. We believe that the next generation of world-changing startups will come from unexpected places - from students in tier-2 cities, researchers in emerging economies, and founders who understand local problems better than anyone.
 
-Beyond Borders is our open infrastructure for turning frontier technology into frontier opportunity — the **direction layer** of the movement's four connected projects:
+Beyond Borders is our open infrastructure for turning frontier technology into frontier opportunity, and for standing behind the people who seize it. The promise runs the full arc: **signals on what to build** (from frontier companies and real use cases), and once you build, **a global network and support system** of mentors, companies, and markets that carries you to success. Equipping builders to dream beyond borders and live up to their true potential: that is the **launchpad layer** of the movement's four connected projects:
 
 | Project | Layer | Role |
 |---|---|---|
 | [WikiSyllabus](https://github.com/The-Purple-Movement/WikiSyllabus) | Data | The open Wikipedia of university syllabi |
 | [Beyond Syllabus](https://github.com/The-Purple-Movement/Beyond-Syllabus) | Understanding | AI companion for deep syllabus understanding — [beyondsyllabus.in](https://beyondsyllabus.in/) |
-| **Beyond Borders** (this repo) | Direction | Frontier technologies mapped to real problems worth building |
+| **Beyond Borders** (this repo) | Launchpad | What to build, plus the global network and support system behind the builders |
 | [Beyond Gatekeepers](https://github.com/deepusnath/Beyond-Gatekeepers) | Community | The Evolve meetup network — successor to 12 years of FAYA:80 |
 
-A student masters the foundations with Beyond Syllabus, finds a problem statement here, and meets the practitioners who've built in that domain at an [Evolve session](https://github.com/deepusnath/Beyond-Gatekeepers). [μLearn](https://mulearn.org/)'s 48,000+ learners are the community this pipeline serves.
+A student masters the foundations with Beyond Syllabus, finds a problem statement here, meets the practitioners who've built in that domain at an [Evolve session](https://github.com/deepusnath/Beyond-Gatekeepers), and, once they build, is backed by the movement's global network on the road to market. [μLearn](https://mulearn.org/)'s 48,000+ learners are the community this pipeline serves.
 
 🌐 [purple-movement.com](https://purple-movement.com) · 💬 [Join the community](#) · 🐦 [Follow us](#)
 

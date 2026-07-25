@@ -72,6 +72,8 @@ Each company entry includes:
 |---|---|---|
 | [Netrasemi](./companies/netrasemi/) | Edge AI Chips | ✅ Active |
 | [Google Gemma 4](./companies/google-gemma4/) | Open Large Language Models | ✅ Active |
+| [HEX20](./companies/hex20/) | Small Satellite Platforms & Mission Services | 🟡 Draft, awaiting anchor validation |
+| [ARC](./companies/arc/) | Gaming Hardware for the Global South | 🟡 Draft, awaiting anchor validation |
 | OpenAI | Foundation Models | 🔜 Coming Soon |
 | NVIDIA | AI Infrastructure | 🔜 Coming Soon |
 | DeepMind | AI Research | 🔜 Coming Soon |
